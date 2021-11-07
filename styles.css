@@ -34,3 +34,21 @@ input, select, textarea {
     padding: 5px;
     margin: 10px;
     }
+
+#remarks{
+    width: 600px;
+}
+
+#text_box{
+    width: 90%;
+    height: 100px;
+}
+
+#comment{
+    width: 200px;
+}
+
+
+
+
+
